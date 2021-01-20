@@ -16,17 +16,17 @@ export default function Home() {
 					<p>Brand Name</p>
 					<ul>
 						<li>
-							<Link href=''>
+							<Link href='/'>
 								<a>Home</a>
 							</Link>
 						</li>
 						<li>
-							<Link href=''>
+							<Link href='/portfolio'>
 								<a>Portfolio</a>
 							</Link>
 						</li>
 						<li>
-							<Link href=''>
+							<Link href='/contact'>
 								<a>Contact</a>
 							</Link>
 						</li>
